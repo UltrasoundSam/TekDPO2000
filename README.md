@@ -14,7 +14,7 @@ Requirements
 
 Before installing, make sure that you have installed all of the prerequiste dependancies:
 
-[Python](https://www.python.org/) 				- (Tested on 2.6 and 2.7)
+[Python](https://www.python.org/) 				- (Tested on 2.6 and 2.7) 
 [PyVISA](http://pyvisa.readthedocs.io/en/stable/)		- For handling the connection to the oscilloscope	
 [PyVISA-py](https://pyvisa-py.readthedocs.io/en/latest/)	- Pure Python backend for PyVISA					
 
